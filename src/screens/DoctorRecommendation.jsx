@@ -1,6 +1,6 @@
 import { Box, Button, Input, Typography, useTheme } from "@mui/material";
 import React, { useEffect, useState } from "react";
-import star from "../assets/vector.png";
+import star from "../assets/Vector.png";
 import search from "../assets/search.png";
 import { Link } from "react-router-dom";
 import { Users } from "../sdk/users";

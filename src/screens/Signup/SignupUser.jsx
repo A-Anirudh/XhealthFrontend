@@ -142,7 +142,6 @@ export const SignupUser = () => {
 						fontSize: "4.7rem",
 						display: "none",
 						[theme.breakpoints.down("md")]: {
-							display: "block",
 							marginTop: "2rem",
 							display: "flex",
 							alignItems: "baseline",
